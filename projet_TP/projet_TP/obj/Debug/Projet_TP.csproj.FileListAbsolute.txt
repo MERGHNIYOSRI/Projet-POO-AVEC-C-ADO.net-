@@ -1,0 +1,19 @@
+C:\Users\mergh\source\repos\Projet_TP\Projet_TP\obj\Debug\Projet_TP.csproj.AssemblyReference.cache
+C:\Users\mergh\source\repos\Projet_TP\Projet_TP\obj\Debug\Projet_TP.csproj.SuggestedBindingRedirects.cache
+C:\Users\mergh\source\repos\Projet_TP\Projet_TP\obj\Debug\Projet_TP.csproj.CoreCompileInputs.cache
+C:\Users\mergh\source\repos\Projet_TP\Projet_TP\bin\Debug\Projet_TP.exe.config
+C:\Users\mergh\source\repos\Projet_TP\Projet_TP\bin\Debug\Projet_TP.exe
+C:\Users\mergh\source\repos\Projet_TP\Projet_TP\bin\Debug\Projet_TP.pdb
+C:\Users\mergh\source\repos\Projet_TP\Projet_TP\bin\Debug\mysql.data.dll
+C:\Users\mergh\source\repos\Projet_TP\Projet_TP\obj\Debug\Projet_TP.csproj.CopyComplete
+C:\Users\mergh\source\repos\Projet_TP\Projet_TP\obj\Debug\Projet_TP.exe
+C:\Users\mergh\source\repos\Projet_TP\Projet_TP\obj\Debug\Projet_TP.pdb
+C:\Users\mergh\OneDrive\Bureau\TP C#\projet_TP\Projet_TP\bin\Debug\Projet_TP.exe.config
+C:\Users\mergh\OneDrive\Bureau\TP C#\projet_TP\Projet_TP\bin\Debug\Projet_TP.exe
+C:\Users\mergh\OneDrive\Bureau\TP C#\projet_TP\Projet_TP\bin\Debug\Projet_TP.pdb
+C:\Users\mergh\OneDrive\Bureau\TP C#\projet_TP\Projet_TP\obj\Debug\Projet_TP.csproj.AssemblyReference.cache
+C:\Users\mergh\OneDrive\Bureau\TP C#\projet_TP\Projet_TP\obj\Debug\Projet_TP.csproj.SuggestedBindingRedirects.cache
+C:\Users\mergh\OneDrive\Bureau\TP C#\projet_TP\Projet_TP\obj\Debug\Projet_TP.csproj.CoreCompileInputs.cache
+C:\Users\mergh\OneDrive\Bureau\TP C#\projet_TP\Projet_TP\obj\Debug\Projet_TP.csproj.CopyComplete
+C:\Users\mergh\OneDrive\Bureau\TP C#\projet_TP\Projet_TP\obj\Debug\Projet_TP.exe
+C:\Users\mergh\OneDrive\Bureau\TP C#\projet_TP\Projet_TP\obj\Debug\Projet_TP.pdb
